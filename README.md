@@ -1,12 +1,14 @@
 # 👋 Hi, I'm Tarun Telang
 
-🚀 Distinguished Engineer | Architect | Engineering Leader  
-📚 Author | Educator | Mentor  
-💡 Passionate about Artificial Intelligence, Microservices, System Design, and Cloud-Native Architectures  
+Distinguished Engineer | Architect | Engineering Leader  
+Author | Educator | Mentor  
+Passionate about Artificial Intelligence, Microservices, System Design, and Cloud-Native Architectures 
+
+[Read my books on O'Reilly](https://www.oreilly.com/search/?q=author%3A%22Tarun%20Telang%22&rows=100)
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I’m a senior software engineering leader with 20+ years of experience working at top technology companies like Microsoft, Oracle, SAP, and BlackBerry.
 
@@ -18,7 +20,7 @@ I specialize in:
 
 ---
 
-## 🏗️ What I’m Working On
+## What I’m Working On
 
 - 📘 Writing **"Beginning Cloud-Native Development (2nd Edition)"**
 - 🎓 Creating courses on System Design and Generative AI
@@ -31,7 +33,7 @@ I specialize in:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Frameworks**
 - Java, Spring Boot, Jakarta EE
@@ -49,7 +51,7 @@ I specialize in:
 
 ---
 
-## 📚 Publications & Content
+## Publications & Content
 
 - ✍️ Blog: https://taruntelang.medium.com/
 - 📘 Books on Java, YAML, Microservices & Cloud-Native Systems
