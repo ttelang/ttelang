@@ -74,7 +74,7 @@ I specialize in:
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 💼 LinkedIn: [https://linkedin.com/in/ttelang](http://linkedin.com/in/taruntelang)
 - 🌐 Website: https://practicaldeveloper.com
 - 📺 YouTube: https://www.youtube.com/@dev-skills
 
