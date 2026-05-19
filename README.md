@@ -70,7 +70,7 @@ I specialize in:
 
 ## 📈 GitHub Stats
 
-![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttelang&show_icons=true&theme=radical)
+[Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttelang&show_icons=true&theme=radical)
 
 ---
 
